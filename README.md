@@ -27,4 +27,4 @@ C# Text RPG 게임
 #### 휴식 기능
 #### 레벨업 기능
 #### 게임 저장하기
-https://github.com/kkh9700/sparta_dungeon/blob/12cdef96942365d3bb4b831f5c58e747398a4015/Program.cs#L27
+[https://github.com/kkh9700/sparta_dungeon/blob/12cdef96942365d3bb4b831f5c58e747398a4015/Program.cs#L27](https://github.com/kkh9700/sparta_dungeon/blob/12cdef96942365d3bb4b831f5c58e747398a4015/Program.cs#L17-L96)https://github.com/kkh9700/sparta_dungeon/blob/12cdef96942365d3bb4b831f5c58e747398a4015/Program.cs#L17-L96
