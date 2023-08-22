@@ -14,6 +14,7 @@ C# Text RPG 게임
 
 # 📌주요 기능
 ## 필수기능
+
 #### 게임 시작 화면
 https://github.com/kkh9700/sparta_dungeon/blob/12cdef96942365d3bb4b831f5c58e747398a4015/Program.cs#L98C8-L138
 
