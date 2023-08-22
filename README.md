@@ -17,7 +17,7 @@ C# Text RPG 게임
 
 #### 게임 시작 화면
 https://github.com/kkh9700/sparta_dungeon/blob/12cdef96942365d3bb4b831f5c58e747398a4015/Program.cs#L98-L138
----
+<br>
 
 #### 상태보기
 https://github.com/kkh9700/sparta_dungeon/blob/12cdef96942365d3bb4b831f5c58e747398a4015/Program.cs#L140-L163
