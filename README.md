@@ -19,49 +19,32 @@ https://github.com/kkh9700/sparta_dungeon/blob/12cdef96942365d3bb4b831f5c58e7473
 
 
 #### 상태보기
-
+https://github.com/kkh9700/sparta_dungeon/blob/12cdef96942365d3bb4b831f5c58e747398a4015/Program.cs#L140-L163
 
 
 #### 인벤토리
-
----
-<br>
+https://github.com/kkh9700/sparta_dungeon/blob/12cdef96942365d3bb4b831f5c58e747398a4015/Program.cs#L165-L200
 
 ## 추가기능
 #### 인벤토리 크기 맞춤
-
----
-<br>
+https://github.com/kkh9700/sparta_dungeon/blob/12cdef96942365d3bb4b831f5c58e747398a4015/Program.cs#L681-L696
 
 #### 인벤토리 정렬하기
 
----
-<br>
 
 #### 상점 - 아이템 구매, 판매
 
----
-<br>
 
 #### 장착 개선
 
----
-<br>
 
 #### 던전입장
 
----
-<br>
 
 #### 휴식 기능
 
----
-<br>
 
 #### 레벨업 기능
-
----
-<br>
 
 
 #### 게임 저장하기
