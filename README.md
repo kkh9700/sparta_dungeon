@@ -10,6 +10,6 @@ C# Text RPG 게임
 * 23.08.18 ~ 23.08.22
 
 ## ⚙️ 개발환경
-<span style='background-color:gray'>C#</span>
-*
-*
+* C#
+* Visual Studio Code
+* .Net Framework 4.7.2
